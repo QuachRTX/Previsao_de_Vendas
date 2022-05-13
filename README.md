@@ -6,7 +6,7 @@
 ## Etapas
 1º Importa uma base de dados baseado em investimento de anuncios e seus retornos.
 
-2° Separo a base de dados para dividir em uma parte como treino da ia e outra para teste.
+2° Separo a base de dados para dividir em uma parte como treino da IA e outra para teste.
 
 3º Importo 2 modelos da IA para realização do treino delas com a base de dados fornecida.
 
