@@ -21,5 +21,5 @@
 
 #### Observação:
 	Está presente formas para visualizar a tabela em formatos gráficos e o resultado dos testes de IA caso desejar.
-	Este foi meu primeiro projeto em Ciencia de dados, Obrigado!
+	Este foi meu primeiro projeto em Ciência de dados, Obrigado!
   
