@@ -1,7 +1,7 @@
 # Previsao_de_Vendas
 
 #### Objetivo:
-	Utilizar uma IA para analisar um base de dados de investimentos em anuncios e retornar uma previsao de vendas.
+	Utilizar uma IA para analisar uma base de dados de investimentos em anuncios e retornar uma previsao de vendas.
 	
 ## Etapas
 1º Importa uma base de dados baseado em investimento de anuncios e seus retornos.
